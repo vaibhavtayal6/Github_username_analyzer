@@ -129,7 +129,6 @@ const Index = () => {
           </div>
         )}
       </main>
-
       <footer className="bg-white dark:bg-slate-800 py-4 border-t border-gray-200 dark:border-gray-700 mt-auto">
         <div className="container mx-auto px-4 text-center text-sm text-muted-foreground">
           <p>GitHub Profile Analyzer</p>
